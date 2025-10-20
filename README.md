@@ -1,4 +1,4 @@
-# VitalVault
+# VitaVault
 
 This project implements a secure, transparent, and decentralized platform for managing organ donation records using blockchain technology. It aims to eliminate fraud, increase trust, and ensure fair donor-recipient matching through smart contracts.
 
